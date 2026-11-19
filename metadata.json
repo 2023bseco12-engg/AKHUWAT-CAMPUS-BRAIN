@@ -1,0 +1,8 @@
+{
+  "name": "Akhuwat Campus Brain",
+  "description": "Centralized institutional intelligence, academic management, and AI campus analytics platform for Akhuwat College for Women, Chakwal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
